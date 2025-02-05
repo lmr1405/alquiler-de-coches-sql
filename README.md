@@ -8,7 +8,7 @@ Consta de 4 archivos:
 
 ## Clonar
 
-en bash
+```bash
 git clone https://github.com/lmr1405/alquiler-de-coches-sql.git
 
 
